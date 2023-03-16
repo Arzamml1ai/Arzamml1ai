@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arzamml1ai
+- 👋 Hi, I’m @Arzam
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
